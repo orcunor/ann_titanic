@@ -1,4 +1,4 @@
 # titanic-survival-prediction
 Could you survive if you were on the Titanic?
 
-Machine Learning Test 
+Passenger Survival Prediction Using Multilayer Artificial Neural Networks and Titanic Data Set
